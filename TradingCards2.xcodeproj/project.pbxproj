@@ -7,18 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2109FAE22B5E02B2002F7E77 /* ·······························································································································.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2109FAE12B5E02B2002F7E77 /* ·······························································································································.swift */; };
+		2109FAE42B5EB1F8002F7E77 /* GrassWonder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2109FAE32B5EB1F8002F7E77 /* GrassWonder.swift */; };
+		2109FAE62B5EB20A002F7E77 /* Mr.C.B..swift in Sources */ = {isa = PBXBuildFile; fileRef = 2109FAE52B5EB20A002F7E77 /* Mr.C.B..swift */; };
+		2109FAE82B5ED844002F7E77 /* SpecialWeek.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2109FAE72B5ED844002F7E77 /* SpecialWeek.swift */; };
+		2109FAEA2B5EDC1E002F7E77 /* TokaiTeio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2109FAE92B5EDC1E002F7E77 /* TokaiTeio.swift */; };
+		2109FAEC2B5F0E86002F7E77 /* NaritaTopRoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2109FAEB2B5F0E86002F7E77 /* NaritaTopRoad.swift */; };
+		2109FAEE2B5F4246002F7E77 /* shabulaji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2109FAED2B5F4245002F7E77 /* shabulaji.swift */; };
+		2109FAF02B5F44F1002F7E77 /* SymboliRudolf.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2109FAEF2B5F44F1002F7E77 /* SymboliRudolf.swift */; };
 		21A6B97A2B5ABAD10077185E /* TradingCards2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6B9792B5ABAD10077185E /* TradingCards2App.swift */; };
 		21A6B97C2B5ABAD10077185E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6B97B2B5ABAD10077185E /* ContentView.swift */; };
 		21A6B97E2B5ABAD40077185E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21A6B97D2B5ABAD40077185E /* Assets.xcassets */; };
 		21A6B9812B5ABAD40077185E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 21A6B9802B5ABAD40077185E /* Preview Assets.xcassets */; };
+		21A6B98A2B5ABE020077185E /* El.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6B9892B5ABE010077185E /* El.swift */; };
+		21A6B98C2B5AC5920077185E /* umamusume.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6B98B2B5AC5920077185E /* umamusume.swift */; };
+		21A6B98F2B5AC99F0077185E /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6B98E2B5AC99F0077185E /* SwiftUIView.swift */; };
+		21A6B9932B5DF3360077185E /* Maruzensky.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6B9922B5DF3360077185E /* Maruzensky.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2109FAE12B5E02B2002F7E77 /* ·······························································································································.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "·······························································································································.swift"; sourceTree = "<group>"; };
+		2109FAE32B5EB1F8002F7E77 /* GrassWonder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrassWonder.swift; sourceTree = "<group>"; };
+		2109FAE52B5EB20A002F7E77 /* Mr.C.B..swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mr.C.B..swift; sourceTree = "<group>"; };
+		2109FAE72B5ED844002F7E77 /* SpecialWeek.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialWeek.swift; sourceTree = "<group>"; };
+		2109FAE92B5EDC1E002F7E77 /* TokaiTeio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TokaiTeio.swift; sourceTree = "<group>"; };
+		2109FAEB2B5F0E86002F7E77 /* NaritaTopRoad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaritaTopRoad.swift; sourceTree = "<group>"; };
+		2109FAED2B5F4245002F7E77 /* shabulaji.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shabulaji.swift; sourceTree = "<group>"; };
+		2109FAEF2B5F44F1002F7E77 /* SymboliRudolf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymboliRudolf.swift; sourceTree = "<group>"; };
 		21A6B9762B5ABAD10077185E /* TradingCards2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TradingCards2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		21A6B9792B5ABAD10077185E /* TradingCards2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradingCards2App.swift; sourceTree = "<group>"; };
 		21A6B97B2B5ABAD10077185E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		21A6B97D2B5ABAD40077185E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		21A6B9802B5ABAD40077185E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		21A6B9892B5ABE010077185E /* El.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = El.swift; sourceTree = "<group>"; };
+		21A6B98B2B5AC5920077185E /* umamusume.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = umamusume.swift; sourceTree = "<group>"; };
+		21A6B98E2B5AC99F0077185E /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		21A6B9922B5DF3360077185E /* Maruzensky.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maruzensky.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +78,7 @@
 				21A6B9792B5ABAD10077185E /* TradingCards2App.swift */,
 				21A6B97B2B5ABAD10077185E /* ContentView.swift */,
 				21A6B97D2B5ABAD40077185E /* Assets.xcassets */,
+				21A6B9882B5ABDEE0077185E /* New Group */,
 				21A6B97F2B5ABAD40077185E /* Preview Content */,
 			);
 			path = TradingCards2;
@@ -65,6 +90,33 @@
 				21A6B9802B5ABAD40077185E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		21A6B9882B5ABDEE0077185E /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				21A6B98E2B5AC99F0077185E /* SwiftUIView.swift */,
+				21A6B98D2B5AC9910077185E /* New Group */,
+				21A6B9892B5ABE010077185E /* El.swift */,
+				2109FAE12B5E02B2002F7E77 /* ·······························································································································.swift */,
+				21A6B9922B5DF3360077185E /* Maruzensky.swift */,
+				21A6B98B2B5AC5920077185E /* umamusume.swift */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		21A6B98D2B5AC9910077185E /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				2109FAE32B5EB1F8002F7E77 /* GrassWonder.swift */,
+				2109FAEF2B5F44F1002F7E77 /* SymboliRudolf.swift */,
+				2109FAE92B5EDC1E002F7E77 /* TokaiTeio.swift */,
+				2109FAEB2B5F0E86002F7E77 /* NaritaTopRoad.swift */,
+				2109FAE52B5EB20A002F7E77 /* Mr.C.B..swift */,
+				2109FAE72B5ED844002F7E77 /* SpecialWeek.swift */,
+				2109FAED2B5F4245002F7E77 /* shabulaji.swift */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,7 +190,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				21A6B97C2B5ABAD10077185E /* ContentView.swift in Sources */,
+				21A6B98C2B5AC5920077185E /* umamusume.swift in Sources */,
+				2109FAE22B5E02B2002F7E77 /* ·······························································································································.swift in Sources */,
+				2109FAE62B5EB20A002F7E77 /* Mr.C.B..swift in Sources */,
+				2109FAEA2B5EDC1E002F7E77 /* TokaiTeio.swift in Sources */,
+				2109FAE42B5EB1F8002F7E77 /* GrassWonder.swift in Sources */,
+				2109FAEC2B5F0E86002F7E77 /* NaritaTopRoad.swift in Sources */,
 				21A6B97A2B5ABAD10077185E /* TradingCards2App.swift in Sources */,
+				21A6B98A2B5ABE020077185E /* El.swift in Sources */,
+				2109FAF02B5F44F1002F7E77 /* SymboliRudolf.swift in Sources */,
+				2109FAE82B5ED844002F7E77 /* SpecialWeek.swift in Sources */,
+				21A6B98F2B5AC99F0077185E /* SwiftUIView.swift in Sources */,
+				21A6B9932B5DF3360077185E /* Maruzensky.swift in Sources */,
+				2109FAEE2B5F4246002F7E77 /* shabulaji.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
